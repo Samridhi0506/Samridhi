@@ -1,2 +1,5 @@
 # Samridhi
-Project Work
+This is my first git repository.
+<br>
+Author - Samridhi
+
